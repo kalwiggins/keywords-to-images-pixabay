@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.x installed on your system.
 - `PIL` (Pillow) library installed for image processing.
 - `requests` library installed for making API requests.
-- A Pixabay API key. You can obtain it by [signing up on Pixabay](https://pixabay.com/accounts/register/).
+- A Pixabay API key. You can obtain it by [signing up on Pixabay](https://pixabay.com/accounts/register/), logging in, and then find your key at https://pixabay.com/api/docs/#api_search_images
 
 ## Installation and Setup
 
