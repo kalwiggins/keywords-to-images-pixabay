@@ -1,4 +1,4 @@
-# Python Image Fetching and Processing Script
+# Text to Image Fetching (with Pixabay) and Processing Script
 
 This Python script automates the task of fetching images from Pixabay based on user-defined keywords, resizing, and cropping them to a specified size. It is designed to be user-friendly, allowing input directly through the command line.
 
