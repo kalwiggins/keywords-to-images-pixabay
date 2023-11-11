@@ -56,7 +56,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Kal Wiggins
-Epic Design Labs
-kal@epicdesignlabs.com
-Project Link: [GitHub Project Link]
+Kal Wiggins  
+https://epicdesignlabs.com  
+kal@epicdesignlabs.com  
+Project Link: https://github.com/kalwiggins/keywords-to-images-pixabay
